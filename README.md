@@ -14,17 +14,19 @@ Package ID:
 ## Install With Obtainium (Step by Step)
 
 1. Install Obtainium on your Android phone.
-2. Open Obtainium and tap `Add App`.
-3. In `App Source URL`, paste:
+2. Open Website https://obtainium.imranr.dev/
+3. Downlaod and Install Obtainium
+4. Obtainium and tap `Add App`.
+5. In `App Source URL`, paste:
    `https://github.com/deomeelahoreeii-ui/Daak-Android-App`
-4. Set source type to `GitHub` (if not auto-detected).
-5. Confirm package ID is `com.daak.mobile`.
-6. Enable:
+7. Set source type to `GitHub` (if not auto-detected).
+8. Confirm package ID is `com.daak.mobile`.
+9. Enable:
    - `Track pre-releases` = OFF (recommended for stable installs)
    - `Background update checks` = ON
    - `Auto-install updates` = optional, your preference
-7. Save the app entry.
-8. Tap `Check for updates`, then install the latest release APK.
+10. Save the app entry.
+11. Tap `Check for updates`, then install the latest release APK.
 
 ## How Updates Work
 
